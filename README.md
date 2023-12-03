@@ -11,6 +11,6 @@ Hi my name is *John* I recently started my web development journey and hope to k
 * SEO
 
 Here is a cool art project I did of a kitten:
-![queen kitty](0ddd0)
+![queen kitty](lovekitty.png)
 
 Check out and me on [Linkedin](https://www.linkedin.com/in/john-a-sandoval)
